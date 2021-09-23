@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT1030-ParticleSimulationLab", "IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab.csproj", "{477CF8B5-970D-4664-9608-501C02E4C9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry2DUnitTests", "Geometry2DUnitTests\Geometry2DUnitTests.csproj", "{ADDAB9EA-6669-42BE-91E4-C63B6C80AFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477CF8B5-970D-4664-9608-501C02E4C9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477CF8B5-970D-4664-9608-501C02E4C9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477CF8B5-970D-4664-9608-501C02E4C9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477CF8B5-970D-4664-9608-501C02E4C9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDAB9EA-6669-42BE-91E4-C63B6C80AFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDAB9EA-6669-42BE-91E4-C63B6C80AFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDAB9EA-6669-42BE-91E4-C63B6C80AFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDAB9EA-6669-42BE-91E4-C63B6C80AFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F1780A-8000-4E40-8FCE-3B71EEB66F66}
+	EndGlobalSection
+EndGlobal
