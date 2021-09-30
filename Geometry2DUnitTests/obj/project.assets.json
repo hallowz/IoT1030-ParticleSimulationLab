@@ -6136,9 +6136,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\Geometry2DUnitTests\\Geometry2DUnitTests.csproj",
-      "projectName": "Geometry2DUnitTests",
-      "projectPath": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\Geometry2DUnitTests\\Geometry2DUnitTests.csproj",
+      "projectUniqueName": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\Geometry2DUnitTests\\PsimUnitTests.csproj",
+      "projectName": "PsimUnitTests",
+      "projectPath": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\Geometry2DUnitTests\\PsimUnitTests.csproj",
       "packagesPath": "C:\\Users\\hallo\\.nuget\\packages\\",
       "outputPath": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\Geometry2DUnitTests\\obj\\",
       "projectStyle": "PackageReference",

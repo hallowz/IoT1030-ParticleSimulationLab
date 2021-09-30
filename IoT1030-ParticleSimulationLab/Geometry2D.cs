@@ -20,7 +20,6 @@ namespace Psim
             /// Get both the X and Y coordinate from one function call
             /// Returns the X and Y coordinate fo the point
             /// </summary>
-
             public void GetCoords(out double x, out double y)
             {
                 x = X;
@@ -54,11 +53,8 @@ namespace Psim
                 {
                     throw new ArgumentOutOfRangeException();
                 }
-                else
-                {
-                    DX = dx;
-                    DY = dy;
-                }
+                DX = dx;
+                DY = dy;
                 // if dx or dy <= -1 or >= 1 -> throw exception
             }
 

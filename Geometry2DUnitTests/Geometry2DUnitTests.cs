@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Psim.Geometry2D;
+using Psim.Particles;
 using System;
 
-namespace Geometry2DUnitTests
+namespace PsimUnitTests
 {
-
 	[TestClass]
 	public class PointTests
 	{

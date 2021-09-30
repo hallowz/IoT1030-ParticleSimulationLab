@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5wihbRpY18ZuNA7MU/bwEnK17lTGDfUjbTfHNsiB993JvnY3dro2rGo3039Ju/2IAfx9yuzfXrLolKDDQOdERA==",
+  "dgSpecHash": "4tGHNnACA/Oc/mOqqG/fLi8VBQGBhJIHPxyxzXv5w6R+gdQ+c6dza2bXcVm704SKZtNsoYa+GryNtgWe6yXYBg==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\Geometry2DUnitTests\\Geometry2DUnitTests.csproj",
+  "projectFilePath": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\Geometry2DUnitTests\\PsimUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hallo\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\hallo\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

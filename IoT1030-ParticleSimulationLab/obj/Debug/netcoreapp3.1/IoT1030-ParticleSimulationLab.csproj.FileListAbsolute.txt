@@ -11,3 +11,4 @@ E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulation
 E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\netcoreapp3.1\IoT1030-ParticleSimulationLab.dll
 E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\netcoreapp3.1\IoT1030-ParticleSimulationLab.pdb
 E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\netcoreapp3.1\IoT1030-ParticleSimulationLab.genruntimeconfig.cache
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\netcoreapp3.1\IoT1030-ParticleSimulationLab.csproj.AssemblyReference.cache
