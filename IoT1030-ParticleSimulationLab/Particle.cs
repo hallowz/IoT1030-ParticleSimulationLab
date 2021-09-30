@@ -55,7 +55,7 @@ namespace Psim.Particles
 		/// <param name="py">The y coordinate</param>
 		public void SetCoords(double? px, double? py)
 		{
-			Position.SetCoords(px, py);
+			position.SetCoords(px, py);
 		}
 		/// <summary>
 		/// Get the x and y position coordinates of the particle
