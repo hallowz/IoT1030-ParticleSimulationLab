@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
       "coverlet.collector/3.0.2": {
         "type": "package",
         "build": {
@@ -1663,7 +1663,7 @@
       },
       "IoT1030-ParticleSimulationLab/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
           "bin/placeholder/IoT1030-ParticleSimulationLab.dll": {}
         },
@@ -6121,7 +6121,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
       "IoT1030-ParticleSimulationLab >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
@@ -6151,15 +6151,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "netcoreapp5",
           "projectReferences": {
             "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\IoT1030-ParticleSimulationLab\\IoT1030-ParticleSimulationLab.csproj": {
               "projectPath": "E:\\Programs\\My Programs\\IoT1030-ParticleSimulationLab\\IoT1030-ParticleSimulationLab\\IoT1030-ParticleSimulationLab.csproj"
@@ -6174,8 +6174,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "netcoreapp5",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",

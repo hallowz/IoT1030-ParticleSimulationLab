@@ -92,11 +92,8 @@ namespace Psim.Particles
 		/// <param name="time">The amount of time the particle drifts</param>
 		public void Drift(double time)
 		{
-			for(int i = 0; i < time; i++)
-            {
-				position.X += direction.DX * Speed; //multiply the x component of the direction vector by the speed, then add the result to the Particle's x position
-				position.Y += direction.DY * Speed; //same but with the y
-            }
+			position.GetCoords(out double x, out double y);
+			position.SetCoords(x + Speed * direction.DX * time, y + Speed * direction.DY * time);
 		}
 		/// <summary>
 		/// Gives the particle a random direction vector

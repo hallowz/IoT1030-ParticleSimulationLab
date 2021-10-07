@@ -1,0 +1,16 @@
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\bin\Debug\net5.0\IoT1030-ParticleSimulationLab.exe
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\bin\Debug\net5.0\IoT1030-ParticleSimulationLab.deps.json
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\bin\Debug\net5.0\IoT1030-ParticleSimulationLab.runtimeconfig.json
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\bin\Debug\net5.0\IoT1030-ParticleSimulationLab.runtimeconfig.dev.json
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\bin\Debug\net5.0\IoT1030-ParticleSimulationLab.dll
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\bin\Debug\net5.0\ref\IoT1030-ParticleSimulationLab.dll
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\bin\Debug\net5.0\IoT1030-ParticleSimulationLab.pdb
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.csproj.AssemblyReference.cache
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.AssemblyInfoInputs.cache
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.AssemblyInfo.cs
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.csproj.CoreCompileInputs.cache
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.dll
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\ref\IoT1030-ParticleSimulationLab.dll
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.pdb
+E:\Programs\My Programs\IoT1030-ParticleSimulationLab\IoT1030-ParticleSimulationLab\obj\Debug\net5.0\IoT1030-ParticleSimulationLab.genruntimeconfig.cache
